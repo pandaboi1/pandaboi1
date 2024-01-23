@@ -1,5 +1,5 @@
 # Hello.World to my github
-
+![Panda](https://cdn.dribbble.com/users/7169799/screenshots/19314983/media/71baa1ee2114a94eaa1f748ce161a748.gif)
 - 👋 Hi, I’m @pandaboi1
 - 👀 I’m interested in coding and video games
 - 🌱 I’m currently learning didgatal systems and design
