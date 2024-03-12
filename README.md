@@ -41,9 +41,4 @@ If you would like to reach out to me, please provide details about yourself, the
 - Instagram: [@eden.moji](https://www.instagram.com/eden.moji/)
 
 
-<!---
-Feel free to use this as a template for your GitHub page or provide feedback on how I can improve it.
---->
-<style>
- 
-</style>
+<!---Feel free to use this as a template for your GitHub page or provide feedback on how I can improve it.--->
