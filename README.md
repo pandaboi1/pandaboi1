@@ -1,5 +1,6 @@
-# Welcome to my GitHub Page
-<img style="border-radius: 100px; display: block; margin-left: auto; margin-right: auto; width:60%; padding-bottom: 18px;" src="panda.png" alt="Panda holding a mug"></img>
+# Welcome to my GitHub Page 
+<img src="Panda.png" alt="Panda holding a mug" style="display: flex;  width: 42%; padding-bottom: 18px"/>
+
 ---
 # 👋 Hey, I am Edwin Serna, also known as @pandaboi1 or Eden.
 
@@ -14,6 +15,8 @@ I am currently focused on learning how to design, build, and deploy websites. My
 - Learning Javascript, CSS, and HTML through hands-on projects.
 - Enhancing my understanding of algorithms and data structures.
 - Updating old projects that were not finished.
+
+[Repos](https://github.com/pandaboi1?tab=repositories) | [Valintines Website](https://valentine-ptzi.onrender.com)
 
 ## 🤝 Collaboration Opportunities
 
@@ -41,3 +44,6 @@ If you would like to reach out to me, please provide details about yourself, the
 <!---
 Feel free to use this as a template for your GitHub page or provide feedback on how I can improve it.
 --->
+<style>
+ 
+</style>
