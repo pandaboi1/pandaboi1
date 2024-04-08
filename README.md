@@ -1,12 +1,12 @@
-# Welcome to my GitHub Page 
+# Welcome to my GitHub Page 😄
 <img src="Panda.png" alt="Panda holding a mug" style="display: flex;  width: 42%; padding-bottom: 18px"/>
 
 ---
-# 👋 Hey, I am Edwin Serna, also known as @pandaboi1 or Eden.
+# 👋 My name is **Edwin Serna**, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; also known as  **Eden** or [@pandaboi1](https://github.com/pandaboi1).
 
 ## 🎮 My Interests
 
-I am passionate about software development and video games. Growing up, I was always curious about how things worked, especially computers and the inner workings of video games. As I discovered that most technology is written with code, I became interested in learning how to create my own scripts to benefit myself and others. Video games were a significant part of my childhood, and I find it fascinating that they are essentially large groups of code that create immersive experiences for players of all technical abilities. I am motivated to learn how to create programs that can make a difference, provide unique experiences, and hopefully make life a little easier for people.
+I am passionate about ***software development*** and ***video games***. Growing up, I was always curious about how things worked, especially computers and the inner workings of software. As I discovered that most technology is written with coding languages, I gained an interest in learning how to create my own scripts to accomplish personal projects for myself and others. Video games were a significant part of my childhood, and it is fascinating that they are essentially large groups of code that create immersive experiences for any player, even if they have little to no technical abilities. ***I will*** learn how to create programs that can make a ***difference***, provide ***unique experiences***, and hopefully ***make life a little easier*** for people.
 
 ## 🌱 Current Learning Journey
 
